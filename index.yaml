@@ -2,13 +2,23 @@ apiVersion: v1
 entries:
   octant:
   - apiVersion: v2
+    appVersion: 0.25.0
+    created: "2023-01-20T04:20:36.846228073-05:00"
+    description: A Helm chart to deploy Octant (vmware-tanzu/octant) to Kubernetes
+    digest: e9542205c99b20fc70eecd4bdbf290fd4d84ac96501fa36613b550c76654bf76
+    name: octant
+    type: application
+    urls:
+    - octant-0.25.0.tgz
+    version: 0.25.0
+  - apiVersion: v2
     appVersion: 0.24.0
-    created: "2022-09-30T08:14:11.308364525-04:00"
+    created: "2023-01-20T04:20:36.845517985-05:00"
     description: A Helm chart to deploy Octant (vmware-tanzu/octant) to Kubernetes
     digest: b309ff50c1d529519f450cfae05f5d414528ba23a4c96beb19435297a818edeb
     name: octant
     type: application
     urls:
-    - https://sonaproject.github.io/octant-helm/octant-0.24.0.tgz
+    - octant-0.24.0.tgz
     version: 0.24.0
-generated: "2022-09-30T08:14:11.307439197-04:00"
+generated: "2023-01-20T04:20:36.844215131-05:00"
